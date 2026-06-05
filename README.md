@@ -1,5 +1,5 @@
 # Oyinjadesola
-# Hi, I'm Oyinjadesola 
+# Hi, I'm Oyinjadesola
 
 ### AI Governance, Risk & Compliance Practitioner | NIST AI RMF, ISO/IEC 42001 & EU AI Act | AI Risk, Controls & Compliance
 
